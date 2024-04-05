@@ -13,6 +13,9 @@ https://colab.research.google.com/drive/1V4LWMcpntNchafUH4_d7vWYzPpaHrH9C
 
 Conclusion:
 Our sentiment analysis of the WallStreetBets subreddit provides valuable insights into the emotions and sentiment expressed within this influential online community. We found that WallStreetBets exhibits a dynamic emotional tone, closely tied to real-world financial events and market performance. 
-Emotions within the subreddit range from exuberance to frustration, reflecting the diverse sentiments of retail investors.
+Emotions within the subreddit range from exuberance to frustration, reflecting the diverse sentiments of retail investors. 
+
+
+![SMDM](https://github.com/ShivaniNeharkar/Reddit-WallStreetBets-Sentiment-Analysis/assets/43198273/9aadb56e-bca3-4b3d-a563-2c6db95f20d4)
 
 
